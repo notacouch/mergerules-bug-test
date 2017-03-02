@@ -1,0 +1,6 @@
+.sass-cache
+.codekit-cache
+config.codekit
+config.rb
+codekit-config.json
+node_modules
